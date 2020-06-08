@@ -1,3 +1,1 @@
-# Strapi application
-
-A quick description of your strapi application
+This is a sample configuration of the Strapi service used by [Argo Lite](https://github.com/poloclub/argo-graph-lite). Please refer to Argo Lite's documentation for deploying your custom snapshot sharing service.
